@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Ei pidä lainkaan paikkaansa",
+      "score": 1
+    },
+    {
+      "text": "Ei pidä juurikaan paikkaansa",
+      "score": 2
+    },
+    {
+      "text": "Pitää osittain paikkansa, osittain ei",
+      "score": 3
+    },
+    {
+      "text": "Pitää jokseenkin paikkansa",
+      "score": 4
+    },
+    {
+      "text": "Pitää täysin paikkansa",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Ei pidä lainkaan paikkaansa",
+      "score": 5
+    },
+    {
+      "text": "Ei pidä juurikaan paikkaansa",
+      "score": 4
+    },
+    {
+      "text": "Pitää osittain paikkansa, osittain ei",
+      "score": 3
+    },
+    {
+      "text": "Pitää jokseenkin paikkansa",
+      "score": 2
+    },
+    {
+      "text": "Pitää täysin paikkansa",
+      "score": 1
+    }
+  ]
+}

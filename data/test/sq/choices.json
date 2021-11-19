@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Plotësisht e gabuar",
+      "score": 1
+    },
+    {
+      "text": "Pjesërisht e gabuar",
+      "score": 2
+    },
+    {
+      "text": "As njëra as tjetra",
+      "score": 3
+    },
+    {
+      "text": "Pjesërisht e vërtetë",
+      "score": 4
+    },
+    {
+      "text": "Plotësisht e vërtetë",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Plotësisht e gabuar",
+      "score": 5
+    },
+    {
+      "text": "Pjesërisht e gabuar",
+      "score": 4
+    },
+    {
+      "text": "As njëra as tjetra",
+      "score": 3
+    },
+    {
+      "text": "Pjesërisht e vërtetë",
+      "score": 2
+    },
+    {
+      "text": "Plotësisht e vërtetë",
+      "score": 1
+    }
+  ]
+}

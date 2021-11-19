@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "错误",
+      "score": 1
+    },
+    {
+      "text": "失准",
+      "score": 2
+    },
+    {
+      "text": "普通",
+      "score": 3
+    },
+    {
+      "text": "准确",
+      "score": 4
+    },
+    {
+      "text": "精确",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "错误",
+      "score": 5
+    },
+    {
+      "text": "失准",
+      "score": 4
+    },
+    {
+      "text": "普通",
+      "score": 3
+    },
+    {
+      "text": "准确",
+      "score": 2
+    },
+    {
+      "text": "精确",
+      "score": 1
+    }
+  ]
+}

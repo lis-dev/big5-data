@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Zdecydowanie nie",
+      "score": 1
+    },
+    {
+      "text": "Raczej nie",
+      "score": 2
+    },
+    {
+      "text": "Ani tak, ani nie",
+      "score": 3
+    },
+    {
+      "text": "Raczej tak",
+      "score": 4
+    },
+    {
+      "text": "Zdecydowanie tak",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Zdecydowanie nie",
+      "score": 5
+    },
+    {
+      "text": "Raczej nie",
+      "score": 4
+    },
+    {
+      "text": "Ani tak, ani nie",
+      "score": 3
+    },
+    {
+      "text": "Raczej tak",
+      "score": 2
+    },
+    {
+      "text": "Zdecydowanie tak",
+      "score": 1
+    }
+  ]
+}
